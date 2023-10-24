@@ -1,0 +1,26 @@
+﻿  Project_Code.cpp
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(26,18): warning C4101: 'Grade': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(26,37): warning C4101: 'Id': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(26,11): warning C4101: 'Marks': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(26,6): warning C4101: 'Reg': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(27,16): warning C4101: 'Choice': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(26,25): warning C4101: 'NumStudent': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(37,7): warning C4101: 'category': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(36,19): warning C4101: 'Grade': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(36,38): warning C4101: 'Id': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(37,17): warning C4101: 'Choice': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(36,26): warning C4101: 'NumStudent': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(101,7): warning C4101: 'category': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(100,19): warning C4101: 'Grade': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(100,38): warning C4101: 'Id': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(101,17): warning C4101: 'Choice': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(100,26): warning C4101: 'NumStudent': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(165,7): warning C4101: 'category': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(164,19): warning C4101: 'Grade': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(164,12): warning C4101: 'Marks': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(165,17): warning C4101: 'Choice': unreferenced local variable
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Student.h(147): warning C4715: 'Delete_Record_S': not all control paths return a value
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Teacher.h(148): warning C4715: 'Delete_Record_T': not all control paths return a value
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Admin.h(149): warning C4715: 'Delete_Record_A': not all control paths return a value
+C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\Project_Code\Project_Code.cpp(220): warning C4715: 'MainMenu': not all control paths return a value
+  Project_Code.vcxproj -> C:\Users\rushe\OneDrive\Desktop\Data Structures Project\4168_3844_4314\x64\Debug\Project_Code.exe
